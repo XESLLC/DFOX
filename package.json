@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "description": "Test App",
   "author": "David Abramowitz",
-  "main": "start.js",
+  "main": "start.js"
 }
